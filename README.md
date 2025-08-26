@@ -25,7 +25,7 @@
 ### Алгоритмы и достижения:
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Fokyyy?border=0&theme=dark)](https://leetcode.com/u/Fokyyy/)
-[![Codeforces Full Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Foky&theme=dark&days=1800)](https://codeforces.com/profile/Foky)
+[![Codeforces Stats](https://cf-stats.card.workers.dev/?username=Foky&theme=dark&cache=1800)](https://codeforces.com/profile/Foky)
 
 ### GitHub статистика:
 
