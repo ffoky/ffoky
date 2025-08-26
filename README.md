@@ -20,6 +20,7 @@
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-090909?style=for-the-badge&logo=rabbitmq&logoColor=FF6600)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-090909?style=for-the-badge&logo=apachekafka&logoColor=231F20)
 
 ### Алгоритмы и достижения:
 
